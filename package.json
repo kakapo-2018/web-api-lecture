@@ -1,0 +1,12 @@
+{
+  "name": "makearequest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "superagent": "^3.8.3"
+  }
+}
